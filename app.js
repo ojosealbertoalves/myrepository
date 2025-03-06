@@ -1,3 +1,4 @@
+// This project was developed during programming logic training with javascript
 
 alert ("Boas vindas ao jogo do número secreto");
 let numeroSecreto = parseInt(Math.random()*100+1)
